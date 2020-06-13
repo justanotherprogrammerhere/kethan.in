@@ -83,7 +83,7 @@ a:hover {
 }
 
 .parallax-window {
-    min-height: 820px;
+    min-height: 830px;
     background: transparent;
 }
 
@@ -129,7 +129,7 @@ a:hover {
 
 .center-align {
     text-align: center;
-    padding-right: 20%;
+    padding-right: 8%;
 }
 
 .tm-welcome-left-col {
@@ -418,14 +418,14 @@ p {
     -webkit-animation-delay: 12s;
     -ms-animation-delay: 12s;
     animation-delay: 12s;
-    color: #e8daa4;
+    color: #aca076;
 }
 
 .rw-words-1 span:nth-child(6) {
     -webkit-animation-delay: 15s;
     -ms-animation-delay: 15s;
     animation-delay: 15s;
-    color: #cae6eb;
+    color: #869a9e;
 }
 
 @-webkit-keyframes rotateWord {
