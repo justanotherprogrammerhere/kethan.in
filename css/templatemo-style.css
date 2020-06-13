@@ -83,7 +83,7 @@ a:hover {
 }
 
 .parallax-window {
-    min-height: 830px;
+    min-height: 100vh;
     background: transparent;
 }
 
@@ -106,10 +106,10 @@ a:hover {
 }
 
 .tm-welcome-left {
-    padding-right: 170px;
+    padding-right: 120px;
     padding-left: -10px;
-    padding-top: 50px;
-    padding-bottom: 40px;
+    padding-top: 30px;
+    padding-bottom: 20px;
     text-align: center;
 }
 
